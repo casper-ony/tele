@@ -1,0 +1,17 @@
+name: "Github Actions Tele Bot"
+
+
+on:
+  push:
+
+
+
+jobs:
+  bot:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+      - run: npm install
+      - name: Run index.js
+        run: node index.js
