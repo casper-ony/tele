@@ -11,7 +11,7 @@ Price 1 tBTC : $38,923.78
 
 👤 Total earn for Participant : 0.011 tBTC (~$2500)
 🏆 For the top 200 Referrals, each get 0.03 $tBTC (~$7000)
-📆 End date : april 23rd
+📆 End date : april 28
 ⏳ Distribution : Instant withdrawal
 
 🌐 Website: https://tbtc.network/
